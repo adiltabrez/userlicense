@@ -1,0 +1,5 @@
+There are 21 Salesforce instances and I want to: 
+
+- Pull User License details from each org
+- Consolidate the data in one file
+- Email that data to multiple addresses with the dat in the email body
